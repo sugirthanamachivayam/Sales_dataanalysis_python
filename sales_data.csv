@@ -1,0 +1,6 @@
+Order_Id,Product,Category,Quantity,Price
+101,Mobile ,Electronics ,3,25000
+102,Laptop ,Electronics ,4,65000
+103,Shirt ,Clothing ,7,2000
+104,Mobile ,Electronics ,2,25000
+105,Shoe,Footwear ,5,2000
